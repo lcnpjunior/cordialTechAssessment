@@ -24,6 +24,15 @@ npx playwright install
 npm run tests
 ```
 
+### Running API Tests
+```
+npm run api-tests
+```
+### Running WEB Tests
+```
+npm run web-tests
+```
+
 ### Running tests on a expecific browser
 ```
 npm run chrome
@@ -32,16 +41,6 @@ npm run chrome
 - chrome
 - safari
 - firefox
-
-
-### Running API Tests
-```
-npm run api-tests
-```
-### Running BOOKS Tests
-```
-npm run web-tests
-```
 
 ### Running a test by Tag
 ```
