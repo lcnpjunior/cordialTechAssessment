@@ -1,10 +1,14 @@
-# DemoQA Automation Tests
+# Cordial Tech Assessment - Test Automation Project
 
-### Clone Project 
+### Clone Project and access project folder
 
 ```
-git clone git@github.com:lcnpjunior/cordialTechAssessment.git
+git clone https://github.com/lcnpjunior/cordialTechAssessment.git
 ```
+```
+cd cordialTechAssessment/part2
+```
+
 ### Install dependencies
 
 ```
@@ -24,6 +28,15 @@ npx playwright install
 npm run tests
 ```
 
+### Running API Tests
+```
+npm run api-tests
+```
+### Running WEB Tests
+```
+npm run web-tests
+```
+
 ### Running tests on a expecific browser
 ```
 npm run chrome
@@ -32,16 +45,6 @@ npm run chrome
 - chrome
 - safari
 - firefox
-
-
-### Running API Tests
-```
-npm run api-tests
-```
-### Running BOOKS Tests
-```
-npm run web-tests
-```
 
 ### Running a test by Tag
 ```
