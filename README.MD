@@ -1,4 +1,4 @@
-# DemoQA Automation Tests
+# Cordial Tech Assessment - Test Automation Project
 
 ### Clone Project 
 
