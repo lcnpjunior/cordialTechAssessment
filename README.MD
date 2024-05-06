@@ -1,10 +1,14 @@
 # Cordial Tech Assessment - Test Automation Project
 
-### Clone Project 
+### Clone Project and access project folder
 
 ```
 git clone https://github.com/lcnpjunior/cordialTechAssessment.git
 ```
+```
+cd cordialTechAssessment/part2
+```
+
 ### Install dependencies
 
 ```
