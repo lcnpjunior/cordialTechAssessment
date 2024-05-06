@@ -3,7 +3,7 @@
 ### Clone Project 
 
 ```
-git clone git@github.com:lcnpjunior/cordialTechAssessment.git
+git clone git@github.com:cordialTechAssessment.git
 ```
 ### Install dependencies
 
